@@ -1,6 +1,6 @@
 <div align="center">
-	<a href="https://github.com/othneildrew/Best-README-Template">
-		<img src="./images/cat_and_mouse.png" alt="Logo" width="80" height="80">
+	<a href="https://github.com/foflores10/catandmouse">
+		<img src="media/icon.png">
 	</a>
 	<h3>Cat and Mouse</h3>
 	<p>Created By: Thomas Laurel, Kenny Niles and Favian Flores</p>
