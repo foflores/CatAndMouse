@@ -1,10 +1,8 @@
 # Cat And Mouse
 
-Created By: Thomas Laurel, Kenny Niles and Favian Flores
-
-## About The Project
-
 For our capstone project, we combined our individual projects (a graphics engine, AI agents, and a networking protocol) to create a game of cat and mouse played by AI agents over a network.
+
+Created By: Thomas Laurel, Kenny Niles and Favian Flores
 
 ## Getting Started
 
