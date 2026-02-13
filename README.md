@@ -1,10 +1,6 @@
-<div align="center">
-	<a href="https://github.com/foflores10/catandmouse">
-		<img src="https://media.foflores.com/projects/catandmouse/icon.png" width=128>
-	</a>
-	<h3>Cat and Mouse</h3>
-	<p>Created By: Thomas Laurel, Kenny Niles and Favian Flores</p>
-</div>
+# Cat And Mouse
+
+Created By: Thomas Laurel, Kenny Niles and Favian Flores
 
 ## About The Project
 
@@ -21,7 +17,7 @@ For our capstone project, we combined our individual projects (a graphics engine
 ### Installation
 
 1. Clone this repo
-	> git clone https://github.com/foflores10/CatandMouse.git
+	> git clone https://github.com/foflores/CatandMouse
 
 ### Usage
 
