@@ -2,6 +2,8 @@
 
 For our capstone project, we combined our individual projects (a graphics engine, AI agents, and a networking protocol) to create a game of cat and mouse played by AI agents over a network.
 
+Created For: CSCI 499 - Advanced Applications
+
 Created By: Thomas Laurel, Kenny Niles and Favian Flores
 
 ## Getting Started
